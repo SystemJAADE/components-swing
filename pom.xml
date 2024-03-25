@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-        <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-        <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+        <connection>scm:git:git://github.com/SystemJAADE/components-swing.git</connection>
+        <developerConnection>scm:git:ssh://github.com:SystemJAADE/components-swing.git</developerConnection>
+        <url>https://github.com/SystemJAADE/components-swing/tree/master</url>
     </scm>
 
 </project>
